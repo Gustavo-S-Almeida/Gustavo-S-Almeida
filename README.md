@@ -5,8 +5,6 @@
 
 ![Gustavo_Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-S-Almeida&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-S-Almeida&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Sou estudante de Análise e Desenvolvimento de Sistemas e fascinado por tecnologia. 🧑‍💻
 
 ## Tecnologias que utilizo em meus projetos e carreira profissional.💻
